@@ -1,0 +1,23 @@
+0.040
+0.010
+3.500
+0.008
+1700. 
+0.341
+0.215
+600.
+24.
+2.
+
+!Input file of hillslope data
+    !The number of Manning of the channel: n
+    !The declivity of the hillslope: S
+    !The critical shear stress: Tc
+    !The rill erodibility coefficient: Kr
+    !The soil Bulk density: Ds
+    !The porosity of the soil: es
+    !The depth of the nonerodible layer: NEL
+    !The soil cohesion: Ch
+    !The internal friction angle: Phi
+    !The threshold for wall erosion: Lim
+
